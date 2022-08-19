@@ -1,0 +1,15 @@
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\bin\Debug\net6.0\OBUCHENIE_001.exe
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\bin\Debug\net6.0\OBUCHENIE_001.deps.json
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\bin\Debug\net6.0\OBUCHENIE_001.runtimeconfig.json
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\bin\Debug\net6.0\OBUCHENIE_001.dll
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\bin\Debug\net6.0\OBUCHENIE_001.pdb
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\obj\Debug\net6.0\OBUCHENIE_001.csproj.AssemblyReference.cache
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\obj\Debug\net6.0\OBUCHENIE_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\obj\Debug\net6.0\OBUCHENIE_001.AssemblyInfoInputs.cache
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\obj\Debug\net6.0\OBUCHENIE_001.AssemblyInfo.cs
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\obj\Debug\net6.0\OBUCHENIE_001.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\obj\Debug\net6.0\OBUCHENIE_001.dll
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\obj\Debug\net6.0\refint\OBUCHENIE_001.dll
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\obj\Debug\net6.0\OBUCHENIE_001.pdb
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\obj\Debug\net6.0\OBUCHENIE_001.genruntimeconfig.cache
+C:\Users\Tony\Desktop\OBUCHENIE C#\OBUCHENIE_001\obj\Debug\net6.0\ref\OBUCHENIE_001.dll
